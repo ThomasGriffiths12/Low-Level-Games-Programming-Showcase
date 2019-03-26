@@ -1,0 +1,14 @@
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\OfflineEditor.exe.config
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\OfflineEditor.exe
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\OfflineEditor.pdb
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\Newtonsoft.Json.dll
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\Newtonsoft.Json.pdb
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\bin\Release\Newtonsoft.Json.xml
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.csprojAssemblyReference.cache
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.Form1.resources
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.Properties.Resources.resources
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.csproj.GenerateResource.cache
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.csproj.CoreCompileInputs.cache
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.csproj.CopyComplete
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.exe
+C:\Users\g018049f\Desktop\RayTracerFramework\OfflineEditor\obj\Release\OfflineEditor.pdb
